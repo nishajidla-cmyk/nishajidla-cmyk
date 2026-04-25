@@ -39,3 +39,4 @@ real Google searches at midnight.
 - [Vaultex](https://github.com/nisha-jidla/vaultex) — microservices e-commerce platform
 - [CI/CD Pipeline](https://github.com/nisha-jidla/cicd-project) — GitHub Actions + Docker
 - [Terraform on AWS](https://github.com/nisha-jidla/terraform-project) — infrastructure as code on AWS
+![snake](https://raw.githubusercontent.com/nishajidla-cmyk/nishajidla-cmyk/output/github-snake-dark.svg)
